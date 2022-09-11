@@ -1,19 +1,5 @@
-(kicad_sch (version 20220404) (generator eeschema)
-
-  (uuid f6d81949-2a08-4d3d-8dca-0efa0cebcd01)
-
+(kicad_sch (version 20211123) (generator eeschema)
   (paper "A4")
-
-  (lib_symbols
-  )
-
-
-  (text "TEMPORARY" (at 15.24 16.51 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a8edc598-a622-4981-a0f4-0eccc8e99387)
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
-  )
+  (lib_symbols)
+  (symbol_instances)
 )
